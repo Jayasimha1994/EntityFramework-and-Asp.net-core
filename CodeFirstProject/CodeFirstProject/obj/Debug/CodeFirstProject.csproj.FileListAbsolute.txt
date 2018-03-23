@@ -1,0 +1,12 @@
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\CodeFirstProject.exe.config
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\CodeFirstProject.exe
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\CodeFirstProject.pdb
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\EntityFramework.dll
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\EntityFramework.xml
+F:\C#programs\CodeFirstProject\CodeFirstProject\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#programs\CodeFirstProject\CodeFirstProject\obj\Debug\CodeFirstProject.csprojResolveAssemblyReference.cache
+F:\C#programs\CodeFirstProject\CodeFirstProject\obj\Debug\CodeFirstProject.exe
+F:\C#programs\CodeFirstProject\CodeFirstProject\obj\Debug\CodeFirstProject.pdb
+F:\C#programs\CodeFirstProject\CodeFirstProject\obj\Debug\CodeFirstProject.Migrations.CreateStudent.resources
+F:\C#programs\CodeFirstProject\CodeFirstProject\obj\Debug\CodeFirstProject.csproj.GenerateResource.Cache
