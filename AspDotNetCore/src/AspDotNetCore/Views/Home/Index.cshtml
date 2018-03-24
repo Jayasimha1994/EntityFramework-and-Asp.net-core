@@ -1,0 +1,33 @@
+﻿@model AspDotNetCore.Models.Login
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<form action="First.html">
+    <head>
+        <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+        <title>Home</title>
+        <style>
+            h1 { 
+                text-align: center;
+            }
+
+            body {
+                background-color: darkseagreen;
+            }
+
+            table {
+                margin-left: 400px;
+                margin-top: 200px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Login Page</h1>
+        <table>
+            <tr><th>Login Info</th></tr>
+            <tr><td>UserName:</td><td><input type="text" name="un" value="@Model.UserName" placeholder="UserName" /></td></tr>
+            <tr><td>Password:</td><td><input type="text" name="pw" value="@Model.Password" placeholder="Password" /></td></tr>
+            <tr><td><input type="button" value="submit" onclick="Validate()" /></td></tr>
+        </table>
+    </body>
+</form>
+</html>

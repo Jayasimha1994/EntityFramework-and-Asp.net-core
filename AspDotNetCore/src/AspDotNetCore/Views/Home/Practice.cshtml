@@ -1,0 +1,23 @@
+﻿@model AspDotNetCore
+@{
+    ViewBag.Title = "Home";
+}
+<h1>Welcome!</h1>
+
+<table>
+    @foreach (var employee in Model.Employees)
+    {
+        <tr>
+            <td>@employee.Name</td>
+
+            <td>
+                <a asp-controller="Home" asp-action="Details"
+                   asp-routeid="@employee.Id">Details</a>
+
+                <a asp-controller="Home" asp-action="Edit"
+                   asp-routeid="@employee.Id">Edit</a>
+
+            </td>
+        </tr>
+    }
+</table>
